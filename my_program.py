@@ -1,5 +1,5 @@
 
-MAX_NUMBER = 50
+MAX_NUMBER = 42 #50
 
 #def even_numbers():
 #    for i in range(MAX_NUMBER):
